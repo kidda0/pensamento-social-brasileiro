@@ -7,18 +7,6 @@ Site de estudo com linha do tempo do pensamento social brasileiro (contexto, tem
 - `index.html`: o site inteiro, em um único arquivo (página e conteúdo juntos).
 - `README.md`: este texto (pode ficar no repositório ou ser apagado, não afeta o site).
 
-Antes de publicar, abra o `index.html` num editor de texto, procure `CONTEÚDO DO SITE` e troque, no `rodape`, `[SEU NOME]` e `[ESCOLHA UMA LICENÇA]`.
-
-## Como publicar no GitHub Pages
-
-Os nomes dos menus do GitHub podem mudar um pouco; a ideia é esta:
-
-1. Crie uma conta no GitHub (github.com), se ainda não tiver.
-2. Crie um repositório **público** novo (botão "New"), por exemplo `pensamento-social`.
-3. Dentro do repositório, use "Add file" > "Upload files" e envie `index.html` e `README.md` (arraste os arquivos, não a pasta). Confirme com "Commit changes".
-4. Vá em "Settings" > "Pages". Em "Build and deployment", escolha "Deploy from a branch", branch `main` e pasta `/ (root)`, e salve.
-5. Aguarde alguns minutos. O endereço aparece na própria tela de Pages, no formato `https://SEU-USUARIO.github.io/pensamento-social/`.
-
 ## Como atualizar o conteúdo
 
 1. No repositório, abra `index.html`, clique no ícone de lápis (editar) e procure o trecho `CONTEÚDO DO SITE`, perto do começo do bloco de script.
